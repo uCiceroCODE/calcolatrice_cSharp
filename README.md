@@ -1,26 +1,26 @@
-# 🧮 Calcolatrice C#
+# 🧮 Calculator — C#
 
-Una semplice calcolatrice console realizzata in **C#** come progetto introduttivo al linguaggio.
+A simple console-based **calculator** written in **C#** as an introductory project to the language.
 
-## Funzionalità
+## Features
 
-- Operazioni aritmetiche di base: addizione, sottrazione, moltiplicazione, divisione
-- Interfaccia testuale da riga di comando
+- Basic arithmetic operations: addition, subtraction, multiplication, division
+- Text-based command-line interface
 
-## Tecnologie
+## Tech Stack
 
-- **Linguaggio:** C#
-- **Piattaforma:** .NET (Visual Studio)
+- **Language:** C#
+- **Platform:** .NET (Visual Studio)
 
-## Come eseguire
+## How to Run
 
-1. Clona il repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/uCiceroCODE/calcolatrice_cSharp.git
    ```
-2. Apri `calcolatrice_cSharp.sln` con **Visual Studio**
-3. Avvia il progetto con `F5` o `Ctrl+F5`
+2. Open `calcolatrice_cSharp.sln` with **Visual Studio**
+3. Run the project with `F5` or `Ctrl+F5`
 
-## Autore
+## Author
 
 [uCiceroCODE](https://github.com/uCiceroCODE)
