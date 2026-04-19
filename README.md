@@ -1,5 +1,7 @@
 # 🧮 Calculator — C#
 
+> 🇮🇹 [Leggi in italiano](./README.it.md)
+
 A simple console-based **calculator** written in **C#** as an introductory project to the language.
 
 ## Features
